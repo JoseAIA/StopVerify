@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release when available."
+title: "StopVerify"
+type: software
+authors:
+  - family-names: Islas
+    given-names: José Á.
+version: 0.2.1
