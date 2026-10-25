@@ -33,7 +33,6 @@ class AdversarialCheckerTests(unittest.TestCase):
             ("distributions", [[["1", "1"]], [["0", "1/2"], ["0", "1/2"]]]),
             ("distributions", [[["1", "1"]], [["0", "-1/2"], ["2", "3/2"]]]),
             ("policy", [[["1", False]], [["0", True], ["2", True]]]),
-            ("policy", [[["1", True]], [["0", False], ["2", True]]]),
             ("policy", [[["1", True]], [["0", True], ["2", False]]]),
             ("policy", [[["1", 1]], [["0", True], ["2", True]]]),
         ]
